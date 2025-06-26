@@ -446,6 +446,7 @@ body {
   margin-top: 50px;
   width: 70%;
   object-fit: cover;
+  border-radius: 20px;
 
 }
 
